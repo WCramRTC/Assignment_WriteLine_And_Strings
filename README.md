@@ -1,7 +1,5 @@
 # Assignment - WriteLine() and Strings
 
-# Assignment 1: Despicable Me Script Formatting
-
 ## Introduction
 
 This assignment involves formatting a part of the "Despicable Me" script with specific guidelines. 
