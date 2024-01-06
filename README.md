@@ -4,6 +4,7 @@
 
 This assignment involves formatting a part of the "Despicable Me" script with specific guidelines. 
 
+- Create a new Console Project called Assignment_WriteLine_Strings_YourName
 - Make seperate variables for upper and regular case version of the different names
     ```csharp
         string GRULower = "Gru";
@@ -55,6 +56,8 @@ Do this for Gru, Agnes, Edith, Margo, and the Vendor
 - Copy and paste the script for convenience, focusing on practicing string variables, concatenation, and output formatting (like Console.WriteLine()).
 
 - Plan your approach by commenting out the script, creating variables, then assembling the script in code, emphasizing organization.
+
+- Add git, push your repo online, and submit your repo URL in the submission box
 
 ---
 
